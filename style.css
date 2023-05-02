@@ -347,7 +347,7 @@ body {
   display: flex;
 }
 #doggerblog .box .textbox {
-  margin: 0 0 0 20px;
+  margin-left: 20px;
 }
 #doggerblog .box h2 {
   font-size: 22px;
